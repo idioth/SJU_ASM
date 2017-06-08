@@ -1,0 +1,5 @@
+INP
+ADD 80
+OUT
+STA 81
+HLT
